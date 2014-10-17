@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[irk:home|Door43 (irk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-irk|d43-irk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-irk/archive/master.zip|d43-irk.zip]]
+
+**Recent Changes**
+{{changes>ns = irk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/irk|Ethnologue data]]
+
